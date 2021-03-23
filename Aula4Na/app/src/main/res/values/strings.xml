@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aula4Na</string>
+    <string name="toast">Exibir Toast</string>
+    <string name="tela_2">Tela 2</string>
+    <string name="parcel">Parcel</string>
+</resources>
