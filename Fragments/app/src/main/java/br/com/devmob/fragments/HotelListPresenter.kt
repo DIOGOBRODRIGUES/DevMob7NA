@@ -1,6 +1,6 @@
 package br.com.devmob.fragments
 
-class HotelListPrensenter(
+class HotelListPresenter(
     private val view: HotelListView,
     private val repository: HotelRepository
 ) {
