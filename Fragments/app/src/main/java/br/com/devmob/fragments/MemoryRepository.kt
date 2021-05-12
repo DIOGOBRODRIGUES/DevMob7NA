@@ -39,5 +39,6 @@ object MemoryRepository: HotelRepository{
             if(term.isEmpty()) hotelsList
             else hotelsList.filter {
                 it.name.toUpperCase().contains(term.toUpperCase()) }
+        callback(resultList.sortedBy { it.name })
     }
 }
