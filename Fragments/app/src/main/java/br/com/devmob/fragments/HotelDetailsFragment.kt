@@ -32,6 +32,19 @@ class HotelDetailsFragment: Fragment(), HotelDetailsView {
     }
 
     override fun errorHotelNotFound() {
-        TODO("Not yet implemented")
+        txtName.text = getString(R.string.error_hotel_not_found)
+        txtAddress.visibility = View.GONE
+        rtbRating.visibility = View.GONE
+    }
+
+    companion object{
+        const val TAG_DETAILS = "tagDetalhe"
+        private const val EXTRA_HOTEL_ID = "hotelId"
+        
+        fun newInstance(id: Long) = HotelDetailsFragment().apply{
+            arguments = Bundle().apply{
+                putLong(EXTRA_HOTEL_ID, id)
+            }
+        }
     }
 }
