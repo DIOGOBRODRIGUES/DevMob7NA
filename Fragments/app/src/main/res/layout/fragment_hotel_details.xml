@@ -17,7 +17,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_chainStyle="packed"
-        tools:text="Nome do Hotel"></TextView>
+        tools:text="Nome do Hotel"/>
 
     <TextView
         android:id="@+id/txtAddress"
@@ -28,7 +28,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/txtName"
-        tools:text="Endereço"></TextView>
+        tools:text="Endereço"/>
 
     <RatingBar
         android:id="@+id/rtbRating"
@@ -42,7 +42,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/txtAddress"
-        ></RatingBar>
+        />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
