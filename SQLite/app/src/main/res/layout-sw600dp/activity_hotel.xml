@@ -5,7 +5,7 @@
                android:orientation="horizontal">
     <fragment
             android:id="@+id/fragmentList"
-            android:name="dominando.android.fragments.HotelListFragment"
+            android:name="dominando.android.hotel.list.HotelListFragment"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"

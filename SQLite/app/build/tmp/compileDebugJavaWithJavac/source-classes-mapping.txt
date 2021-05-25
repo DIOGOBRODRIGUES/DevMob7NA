@@ -1,0 +1,2 @@
+dominando/android/fragments/BuildConfig.java
+ dominando.android.fragments.BuildConfig
