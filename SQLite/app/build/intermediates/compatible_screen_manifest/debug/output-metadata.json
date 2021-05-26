@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "dominando.android.fragments",
+  "applicationId": "dominando.android.hotel",
   "variantName": "debug",
   "elements": []
 }

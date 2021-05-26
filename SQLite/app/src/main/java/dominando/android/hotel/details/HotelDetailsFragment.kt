@@ -10,9 +10,11 @@ import dominando.android.hotel.model.Hotel
 import dominando.android.hotel.repository.memory.MemoryRepository
 import dominando.android.hotel.R
 import kotlinx.android.synthetic.main.fragment_hotel_details.*
+import org.koin.android.ext.android.inject
+import org.koin.core.parameter.parametersOf
 
 class HotelDetailsFragment : Fragment(), HotelDetailsView {
-    private val presenter = HotelDetailsPresenter(this, MemoryRepository)
+    private val presenter : HotelDetailsPresenter by inject { parametersOf(this)  }
     private var hotel: Hotel? = null
     private var shareActionProvider : ShareActionProvider? = null
 

@@ -1,13 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\cd494ab37bda493cd5a8f4a749c99c63\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\531337ca2a58abab37c113ea5eaa13f6\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\c3b33b6db602330d46f797cde58ffbf8\jetified-core-ktx-1.0.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\20fff7de0ccd88320ed58b773a5712a3\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [org.koin:koin-androidx-scope:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\e9437f672398fb060ac984d27df9bc2b\jetified-koin-androidx-scope-1.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-android:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\b2307eb6c4260d85a34160b1556d51fc\jetified-koin-android-1.0.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\af75e0bce38116b8d2a42f0396734b07\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\c023b8bbfba781dfd6747acee928e245\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\7d7da28ee78e30c2a9f92a1cd3621c84\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -36,29 +38,31 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\diogo\.gradle\ca
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\b882fbdc3a9fdca8a8d5d8e1e869244f\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\47fa3a1448618b134a93d4bbe725e749\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\715c835e8f8de7b90a0ab932f2f533b7\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:3:11-48
+		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:3:11-44
 		INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:5:5-25:19
+ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:5:5-26:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\cd494ab37bda493cd5a8f4a749c99c63\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\cd494ab37bda493cd5a8f4a749c99c63\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\20fff7de0ccd88320ed58b773a5712a3\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\20fff7de0ccd88320ed58b773a5712a3\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [org.koin:koin-androidx-scope:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\e9437f672398fb060ac984d27df9bc2b\jetified-koin-androidx-scope-1.0.0\AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\e9437f672398fb060ac984d27df9bc2b\jetified-koin-androidx-scope-1.0.0\AndroidManifest.xml:7:5-20
 MERGED from [androidx.core:core:1.0.1] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\6e8b79d7c32b30f360d99a459c694a86\core-1.0.1\AndroidManifest.xml:22:5-89
 MERGED from [androidx.core:core:1.0.1] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\6e8b79d7c32b30f360d99a459c694a86\core-1.0.1\AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\9ed08324ec6692192634f2883c13e472\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
@@ -66,39 +70,41 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\di
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\6e8b79d7c32b30f360d99a459c694a86\core-1.0.1\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:10:13-39
+		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:11:13-39
 	android:label
-		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:8:13-45
+		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:9:13-45
 	android:roundIcon
-		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:9:13-58
+		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:10:13-58
 	android:icon
-		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:7:13-47
+		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:8:13-47
 	android:allowBackup
-		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:6:13-39
+		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:7:13-39
 	android:theme
-		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:11:13-44
-activity#dominando.android.fragments.HotelActivity
-ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:13:9-20:20
+		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:12:13-44
+	android:name
+		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:6:13-37
+activity#dominando.android.hotel.common.HotelActivity
+ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:14:9-21:20
 	android:launchMode
-		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:15:17-47
+		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:16:17-47
 	android:name
-		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:14:17-46
+		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:15:17-76
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:16:13-19:29
+ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:17:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:17:17-68
+ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:18:17-68
 	android:name
-		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:18:17-76
+ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:19:17-76
 	android:name
-		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:18:27-74
-activity#dominando.android.fragments.HotelDetailsActivity
-ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:22:9-24:62
+		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:19:27-74
+activity#dominando.android.hotel.details.HotelDetailsActivity
+ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:23:9-25:92
 	android:parentActivityName
-		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:24:17-60
+		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:25:17-90
 	android:name
-		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:23:17-53
+		ADDED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:24:17-84
 uses-sdk
 INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml
@@ -111,6 +117,10 @@ MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\diogo\.gradle\caches\transfo
 MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\c3b33b6db602330d46f797cde58ffbf8\jetified-core-ktx-1.0.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\20fff7de0ccd88320ed58b773a5712a3\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\20fff7de0ccd88320ed58b773a5712a3\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [org.koin:koin-androidx-scope:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\e9437f672398fb060ac984d27df9bc2b\jetified-koin-androidx-scope-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\e9437f672398fb060ac984d27df9bc2b\jetified-koin-androidx-scope-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\b2307eb6c4260d85a34160b1556d51fc\jetified-koin-android-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\b2307eb6c4260d85a34160b1556d51fc\jetified-koin-android-1.0.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\af75e0bce38116b8d2a42f0396734b07\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\af75e0bce38116b8d2a42f0396734b07\fragment-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\c023b8bbfba781dfd6747acee928e245\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44

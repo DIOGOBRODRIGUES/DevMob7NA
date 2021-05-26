@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="dominando.android.fragments"
+    package="dominando.android.hotel"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
         android:minSdkVersion="21"
-        android:targetSdkVersion="28" />
+        android:targetSdkVersion="30" />
 
     <application
+        android:name="dominando.android.hotel.HotelApp"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -19,7 +20,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="dominando.android.fragments.HotelActivity"
+            android:name="dominando.android.hotel.common.HotelActivity"
             android:launchMode="singleTop" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,8 +29,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="dominando.android.fragments.HotelDetailsActivity"
-            android:parentActivityName="dominando.android.fragments.HotelActivity" />
+            android:name="dominando.android.hotel.details.HotelDetailsActivity"
+            android:parentActivityName="dominando.android.hotel.common.HotelActivity" />
     </application>
 
 </manifest>

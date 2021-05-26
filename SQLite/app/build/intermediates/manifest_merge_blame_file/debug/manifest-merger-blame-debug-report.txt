@@ -1,56 +1,58 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="dominando.android.fragments"
+3    package="dominando.android.hotel"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
 8-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml
-9        android:targetSdkVersion="28" />
+9        android:targetSdkVersion="30" />
 9-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:5:5-25:19
-12        android:allowBackup="true"
-12-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:6:13-39
-13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.0.1] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\6e8b79d7c32b30f360d99a459c694a86\core-1.0.1\AndroidManifest.xml:22:18-86
-14        android:debuggable="true"
-15        android:icon="@mipmap/ic_launcher"
-15-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:7:13-47
-16        android:label="@string/app_name"
-16-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:8:13-45
-17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:9:13-58
-18        android:supportsRtl="true"
-18-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:10:13-39
-19        android:testOnly="true"
-20        android:theme="@style/AppTheme" >
-20-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:11:13-44
-21        <activity
-21-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:13:9-20:20
-22            android:name="dominando.android.fragments.HotelActivity"
-22-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:14:17-46
-23            android:launchMode="singleTop" >
-23-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:15:17-47
-24            <intent-filter>
-24-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:16:13-19:29
-25                <action android:name="android.intent.action.MAIN" />
-25-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:17:17-68
-25-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:17:25-66
-26
-27                <category android:name="android.intent.category.LAUNCHER" />
-27-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:18:17-76
-27-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:18:27-74
-28            </intent-filter>
-29        </activity>
-30        <activity
-30-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:22:9-24:62
-31            android:name="dominando.android.fragments.HotelDetailsActivity"
-31-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:23:17-53
-32            android:parentActivityName="dominando.android.fragments.HotelActivity" />
-32-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:24:17-60
-33    </application>
-34
-35</manifest>
+11-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:5:5-26:19
+12        android:name="dominando.android.hotel.HotelApp"
+12-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:6:13-37
+13        android:allowBackup="true"
+13-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:7:13-39
+14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+14-->[androidx.core:core:1.0.1] C:\Users\diogo\.gradle\caches\transforms-2\files-2.1\6e8b79d7c32b30f360d99a459c694a86\core-1.0.1\AndroidManifest.xml:22:18-86
+15        android:debuggable="true"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:8:13-47
+17        android:label="@string/app_name"
+17-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:9:13-45
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:10:13-58
+19        android:supportsRtl="true"
+19-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:11:13-39
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:12:13-44
+22        <activity
+22-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:14:9-21:20
+23            android:name="dominando.android.hotel.common.HotelActivity"
+23-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:15:17-76
+24            android:launchMode="singleTop" >
+24-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:16:17-47
+25            <intent-filter>
+25-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:17:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:18:17-68
+26-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:18:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:19:17-76
+28-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity
+31-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:23:9-25:92
+32            android:name="dominando.android.hotel.details.HotelDetailsActivity"
+32-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:24:17-84
+33            android:parentActivityName="dominando.android.hotel.common.HotelActivity" />
+33-->C:\Users\diogo\OneDrive - SempreUniNassau\2021.1\Dev App Moveis\codma\DevMob7na\DevMob7NA\SQLite\app\src\main\AndroidManifest.xml:25:17-90
+34    </application>
+35
+36</manifest>

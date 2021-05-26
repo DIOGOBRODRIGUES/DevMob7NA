@@ -1,2 +1,2 @@
-dominando/android/fragments/BuildConfig.java
- dominando.android.fragments.BuildConfig
+dominando/android/hotel/BuildConfig.java
+ dominando.android.hotel.BuildConfig

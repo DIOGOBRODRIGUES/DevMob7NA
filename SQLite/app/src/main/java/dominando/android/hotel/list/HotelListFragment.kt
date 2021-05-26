@@ -14,13 +14,15 @@ import com.google.android.material.snackbar.Snackbar
 import dominando.android.hotel.model.Hotel
 import dominando.android.hotel.repository.memory.MemoryRepository
 import dominando.android.hotel.R
+import org.koin.android.ext.android.inject
+import org.koin.core.parameter.parametersOf
 
 class HotelListFragment : ListFragment(),
     HotelListView,
     AdapterView.OnItemLongClickListener,
     ActionMode.Callback {
 
-    private val presenter = HotelListPresenter(this, MemoryRepository)
+    private val presenter : HotelListPresenter by inject { parametersOf(this)  }
     private var actionMode: ActionMode? = null
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
